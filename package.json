@@ -1,0 +1,25 @@
+{
+  "name": "node-testing-nerd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.13.3",
+    "lodash": "^3.10.1",
+    "mortalkombat": "0.0.1",
+    "underscore.string": "^3.2.2"
+  },
+  "devDependencies": {
+    "chai": "3.4.1",
+    "mocha": "2.3.4",
+    "superagent": "1.5.0"
+  }
+}
